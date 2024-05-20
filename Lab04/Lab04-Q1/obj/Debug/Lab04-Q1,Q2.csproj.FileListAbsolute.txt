@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\bin\Debug\Lab04-Q1.exe.config
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\bin\Debug\Lab04-Q1.exe
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\bin\Debug\Lab04-Q1.pdb
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04-Q1,Q2.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04-Q1,Q2.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04_Q1.Form1.resources
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04_Q1.Properties.Resources.resources
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04-Q1,Q2.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04-Q1,Q2.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04-Q1.exe
+C:\Users\HP\OneDrive - NSBM\1st Year\3rd semester\Object oriented with c#\Practicals\Lab04-Q1\Lab04-Q1\obj\Debug\Lab04-Q1.pdb
